@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on making this README
-- 🌱 I’m currently learning progrmming in Python and Git/Github
+- 🌱 I’m currently learning programming in Python and Git/Github
 - 👯 I’m looking to collaborate on stuff and things
 - 🤔 I’m looking for help with TBD
 - 💬 Ask me about computers and stuff
